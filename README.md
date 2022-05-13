@@ -1,4 +1,4 @@
-# data_science_interview_guide
+# Data Science Interview Guide
 List of things to read while preparing for a data science interview
 ### Consistency is the Key
 #### Study and Practice daily
