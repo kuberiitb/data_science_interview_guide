@@ -13,7 +13,7 @@ List of things to read while preparing for a data science interview
     
 2. Python libraries handson
     1. Pyspark Basics [Krish Naik](https://www.youtube.com/watch?v=WyZmM6K7ubc&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg)
-    2. Pandas Basics 
+    2. Pandas Basics Notebooks [donnemartin](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
     3. ML Models Basics
     4. Hands-on on Kaggle dataset 1
     5.  
@@ -32,3 +32,7 @@ List of things to read while preparing for a data science interview
 
 6. Interview Questions
     1. [Introduction to ML Interviews](https://huyenchip.com/ml-interviews-book/)
+
+7. Others
+        1. Git cheatsheet [donnemartin](https://nbviewer.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#git)
+        2. 
