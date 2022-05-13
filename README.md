@@ -35,4 +35,4 @@ List of things to read while preparing for a data science interview
 
 7. Others
         1. Git cheatsheet [donnemartin](https://nbviewer.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#git)
-        2. 
+    
