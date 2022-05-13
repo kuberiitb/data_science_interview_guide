@@ -11,3 +11,8 @@ List of things to read while preparing for a data science interview
     5. Practice Binary Search [Leetcode Binary Search Daily Study Plan](https://leetcode.com/study-plan/binary-search/)
 2. Learn Machine learning Algorithms
     1. Learn from [StatsQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+
+3. Learn Deep Learning Algorithms
+    1. Learn from [colah](https://colah.github.io/)
+    2. Deep Learning [Resources](https://raoumer.github.io/blog_posts/deep_learning_resources.html)
+    3. Deep Learning [Papers](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
