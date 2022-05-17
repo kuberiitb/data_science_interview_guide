@@ -7,7 +7,7 @@ List of things to read while preparing for a data science interview
     1. Learn SQL Beginner [Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)
     2. Learn SQL Intermediate [Alex](https://www.youtube.com/watch?v=9URM1_2S0ho&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL)
     3. Practice SQL [Leetcode SQL Daily Study plan](https://leetcode.com/study-plan/sql/)
-    4. A very important topic in SQL interviews is (RANK)[https://www.mysqltutorial.org/mysql-window-functions/mysql-rank-function/]
+    4. A very important topic in SQL interviews is [RANK](https://www.mysqltutorial.org/mysql-window-functions/mysql-rank-function/)
     5. Practice Programming [Leetcode Programming Skills Daily Study plan](https://leetcode.com/study-plan/programming-skills/)
     6. Practice Binary Search [Leetcode Binary Search Daily Study Plan](https://leetcode.com/study-plan/binary-search/)
     7. Once above leetcode Practice is done, move to [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) for advanced problems
