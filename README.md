@@ -30,10 +30,11 @@ List of things to read while preparing for a data science interview
 
 5. Learn MLOps
     1. [MadeWithML](https://madewithml.com/)
+    2. [MLOps Refernce](https://ml-ops.org/content/references.html]
 
 6. Interview Questions
     1. [Introduction to ML Interviews](https://huyenchip.com/ml-interviews-book/)
 
 7. Others
-        1. Git cheatsheet [donnemartin](https://nbviewer.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#git)
+    1. Git cheatsheet [donnemartin](https://nbviewer.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#git)
     
