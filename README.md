@@ -22,6 +22,7 @@ List of things to read while preparing for a data science interview
 
 3. Learn Machine learning Algorithms
     1. Learn from [StatsQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+    2. Practice questions on Classfication [metrics](https://kiwidamien.github.io/interview-practice-with-precision-and-recall.html) 
 
 4. Learn Deep Learning Algorithms
     1. Learn from [colah](https://colah.github.io/)
