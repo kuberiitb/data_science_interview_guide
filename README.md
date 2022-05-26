@@ -44,4 +44,4 @@ List of things to read while preparing for a data science interview
     2. Full stack Deep Learning [2021](https://fullstackdeeplearning.com/spring2021/)
     3. How to build scalable ML systems (part 1)[https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372] and (part 2)[https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7]
     4. Stanford course (CS329)[https://stanford-cs329s.github.io/2021/syllabus.html]
-    5. Chip Huen Blog on (ML System Design)[https://huyenchip.com/machine-learning-systems-design/design-a-machine-learning-system.html] 
+    5. Chip Huen Blog on (ML System Design)[https://huyenchip.com/machine-learning-systems-design/toc.html] 
