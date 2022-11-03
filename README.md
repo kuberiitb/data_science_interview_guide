@@ -35,6 +35,7 @@ List of things to read while preparing for a data science interview
 
 6. Interview Questions
     1. [Introduction to ML Interviews](https://huyenchip.com/ml-interviews-book/)
+    2. ML Metrics [part-1](https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4) [part-2](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 
 7. Others
     1. Git cheatsheet [donnemartin](https://nbviewer.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#git)
