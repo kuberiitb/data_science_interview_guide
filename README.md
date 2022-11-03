@@ -16,8 +16,7 @@ List of things to read while preparing for a data science interview
     1. Pyspark Basics [Krish Naik](https://www.youtube.com/watch?v=WyZmM6K7ubc&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg)
     2. Pandas Basics Notebooks [donnemartin](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
     3. ML Models Basics
-    4. Hands-on on Kaggle dataset 1
-    5.  
+    4. Hands-on on Kaggle- Use [tabular Playground Competitions](https://www.kaggle.com/search?q=Tabular+Playground)
 
 
 3. Learn Machine learning Algorithms
@@ -28,6 +27,7 @@ List of things to read while preparing for a data science interview
     1. Learn from [colah](https://colah.github.io/)
     2. Deep Learning [Resources](https://raoumer.github.io/blog_posts/deep_learning_resources.html)
     3. Deep Learning [Papers](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+    4. DL [Weight Initialization](https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
 
 5. Learn MLOps
     1. [MadeWithML](https://madewithml.com/)
